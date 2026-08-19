@@ -1,0 +1,6 @@
+! Home and shorts buttons in sidebar
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-mini-guide-entry-renderer:nth-of-type(-n+2)
+
+! Homepage feed
+www.youtube.com##body:matches-path(/^\/$/) #page-manager
