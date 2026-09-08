@@ -1,6 +1,6 @@
 from pathlib import Path
 
-lists = ["youtube"]
+lists = ["youtube", "reddit"]
 all = ""
 
 build_dir = Path("build")
