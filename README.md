@@ -20,7 +20,7 @@ See the [LICENSE](LICENSE) file for more information.
 ### Third-party content
 
 This project also includes content from:
-- [filter-lists](https://github.com/irbis-sh/filter-lists) by Irbis,
-  [MIT](LICENCES/filter-lists-irbis).
+- [filter-lists](https://github.com/irbis-sh/filter-lists) by
+  [Irbis](https://irbis.sh/), [MIT](LICENCES/filter-lists-irbis).
 
 Copies of licences are included in the [LICENCES](LICENCES) directory.

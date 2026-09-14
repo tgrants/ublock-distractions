@@ -1,2 +1,9 @@
+# Build output
 build/
+
+# Config
 .secrets
+
+# Local files and directories
+*.local
+*.local.*
