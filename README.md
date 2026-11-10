@@ -12,17 +12,18 @@ The goal of this project is to remove the manifestations of such practices.
 
 ## Filter lists
 
-| List    | URL                                  |
-|---------|--------------------------------------|
-| All     | https://block.lejupla.de/all.txt     |
-| Reddit  | https://block.lejupla.de/reddit.txt  |
-| YouTube | https://block.lejupla.de/youtube.txt |
+| List      | URL                                    |
+|-----------|----------------------------------------|
+| All       | https://block.lejupla.de/all.txt       |
+| Instagram | https://block.lejupla.de/instagram.txt |
+| Reddit    | https://block.lejupla.de/reddit.txt    |
+| YouTube   | https://block.lejupla.de/youtube.txt   |
 
 ## Usage
 
 - Open *preferences/dashboard* of the uBlock Origin extension
 - In the *import* field at the bottom of the *Filter lists* page, paste the
-  lists that you want to add
+  URLs of the lists that you want to add.
 - Click on the *Apply changes* button at the top left of the page
 
 ## Contributing

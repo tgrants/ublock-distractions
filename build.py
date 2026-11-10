@@ -1,7 +1,7 @@
 from pathlib import Path
 
 
-lists = ["youtube", "reddit"]
+lists = ["youtube", "reddit", "instagram"]
 special_comments = {
 	"Title": "ublock-distractions",
 	"Expires": "12 hours",
